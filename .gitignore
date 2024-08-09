@@ -1,0 +1,7 @@
+/.venv/
+/.idea/
+/**/.DS_Store
+/research/cnn/dataset/test_set/cats/
+/research/cnn/dataset/test_set/dogs/
+/research/cnn/dataset/training_set/cats/
+/research/cnn/dataset/training_set/dogs/
