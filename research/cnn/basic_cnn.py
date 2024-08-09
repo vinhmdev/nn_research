@@ -78,8 +78,7 @@ import matplotlib.image as mpimg
 
 basic_cnn = BasicCNN()
 
-
-# basic_cnn.create_cnn()  # run it if re-create cnn.keras file
+basic_cnn.create_cnn()  # run it if re-create cnn.keras file
 
 
 def test(path: str):
